@@ -1,0 +1,4 @@
+Dataset: avia_par_ch (Eurostat)
+Dataset last updated: 2025-11-19T23:00:00+0100
+Downloaded: 2026-11-15
+API: https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/avia_par_ch
