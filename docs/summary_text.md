@@ -6,6 +6,9 @@ Zurich Route Snapshot: do the 2024 numbers support SWISS's summer 2027 changes?
 ## Subtitle (small)
 Nurdan İkbal Söyler · November 2026 · Data: Eurostat avia_par_ch, 2019–2024, all airlines per airport pair
 
+## Short answer (bold, one line under the subtitle)
+Short answer: yes for Montreal and Budapest, yes for Nice and Hamburg in summer; Paris needs data this source cannot show.
+
 ## Chart title
 Load factor by month, 2024 (all airlines)
 
@@ -15,7 +18,7 @@ Load factor by month, 2024 (all airlines)
 3. Nice and Hamburg look weak over the full year (75%, below 2019), but reach 80% in June–August, about 7 points above the rest of the year. This fits SWISS adding flights there for the summer season.
 4. Paris is stable all year (78–80%), so the summer pattern alone does not explain the extra Paris flights.
 
-## Questions I would like to learn in the team
+## Questions I would like to explore with the team
 - Does SWISS's own load factor on these routes follow the airport total, or is SWISS's share changing?
 - How many Paris and Hamburg passengers connect to long-haul flights in Zurich? This data cannot show transfer traffic.
 
