@@ -12,11 +12,15 @@ Load factor by month, 2024 (all airlines)
 ## Key findings
 1. Long-haul routes are fuller than European ones: Americas 86% and Asia-Pacific 88% load factor vs. Europe 80%; domestic routes reach only 58%.
 2. Montreal (92% full, 109% of 2019 passengers) and Budapest (105% of 2019) clearly support more flights.
-3. Paris, Nice and Hamburg look weak over the full year (75–79%, below 2019), but reach about 80% in June–August. This fits SWISS adding flights on these routes for the summer season.
+3. Nice and Hamburg look weak over the full year (75%, below 2019), but reach 80% in June–August, about 7 points above the rest of the year. This fits SWISS adding flights there for the summer season.
+4. Paris is stable all year (78–80%), so the summer pattern alone does not explain the extra Paris flights.
 
 ## Questions I would like to learn in the team
 - Does SWISS's own load factor on these routes follow the airport total, or is SWISS's share changing?
 - How many Paris and Hamburg passengers connect to long-haul flights in Zurich? This data cannot show transfer traffic.
+
+## Chart note (small, under the chart)
+y-axis starts at 60%
 
 ## Limitations (small, bottom)
 All airlines on each airport pair, not SWISS only · no revenue or cost data, so no view on profitability · latest full year 2024 · Toulouse, Niš and Bengaluru have no Eurostat data; Bremen only for 2019.
