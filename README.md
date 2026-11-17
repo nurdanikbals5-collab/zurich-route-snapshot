@@ -29,6 +29,7 @@ Load factor = passengers carried / seats available.
 - Eurostat dataset `avia_par_ch`: passengers carried, seats and commercial passenger flights per airport pair,
   2019, 2023 and 2024, plus monthly data 2023–2024 for the focus routes.
 - Each route covers **all airlines** on the airport pair, both directions.
+- Source: © European Union, Eurostat (avia_par_ch), reused under the Eurostat copyright notice.
 
 ## Limitations
 - Not SWISS-only data; no revenue or cost data, so route profitability cannot be judged.
